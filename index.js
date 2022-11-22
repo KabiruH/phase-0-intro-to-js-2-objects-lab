@@ -1,6 +1,6 @@
 // Write your solution in this file!
 
-var employee = {
+const employee = {
         name:"Sam",
         streetAddress:"11 Broadway"
 }
